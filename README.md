@@ -10,7 +10,7 @@ I'm a passionate developer focused on web development and AI-powered application
 ### 💻 Projects:
 - **[SamAI LucidDreams](https://github.com/Samarth40/Sam_AI-LucidDreams)**: A text-to-image AI frontend project.
 - **[Mood Lens](https://github.com/Samarth40/mood-to-movie)**: A lens that detects your mood and suggests movies tailored to your emotions.
-- 
+  
 ### 💞️ Looking to Collaborate On:
 - Frontend projects involving **AI/ML integrations**.
 - API-based web applications.
